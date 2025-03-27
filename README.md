@@ -46,7 +46,7 @@ The primary objectives of this project are:
   ![{4B797927-883B-48CE-891F-0F7F906B3D4A}](https://github.com/user-attachments/assets/52693de6-ca0b-4579-93c2-82313ff9e474)
  
 - **Sales by Purchase Channels:** Compared revenue from online, in-store, and mixed shopping.
-- 
+  
   ![{7285D1D6-D1F2-4807-8B37-58FA27CB7B92}](https://github.com/user-attachments/assets/89a4b028-ee9a-4c07-b38c-002025671eb1)
 
 - **New vs. Returning Customers:** Evaluated repeat customer purchases.
